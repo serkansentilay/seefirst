@@ -1,0 +1,5 @@
+# ninja log v5
+0	10	0	/Users/serkanyildirim/Documents/reactnativeexpress/seefirst/android/app/.cxx/Debug/6y293884/x86/CMakeFiles/cmake.verify_globs	39503b933f02f195
+0	1041	1753718579728885256	CMakeFiles/appmodules.dir/Users/serkanyildirim/Documents/reactnativeexpress/seefirst/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	265ff801dec65e33
+0	1155	1753718579844104174	CMakeFiles/appmodules.dir/OnLoad.cpp.o	aa3702355ac7d55a
+1155	1202	1753718579893049395	/Users/serkanyildirim/Documents/reactnativeexpress/seefirst/android/app/build/intermediates/cxx/Debug/6y293884/obj/x86/libappmodules.so	531bb384cc04c333
